@@ -3,13 +3,16 @@
 #
 # change values to your sepcific setup
 
-export ADMIN_USERID="000000" # your gh userid
+export ADMIN_USERID="324686" # your gh userid
 export SITEURL="http://localhost:5000/"
+export SITEURL="http://wxoblog.herokuapp.com/"
+
 export MONGOLAB_URI="mongodb://localhost/gistblogs"
-export GH_CONSUMER_KEY="<gh consumer key here>"
-export GH_CONSUMER_SECRET="<gh consumer secret here>"
+export GH_CONSUMER_KEY="5703c048ee2275de0a57"
+export GH_CONSUMER_SECRET="461fafcf906f7bdb48e13ce1714142126ac80156"
 export GH_CALLBACK="http://localhost:5000/oauth/callback"
-export EXPRESS_SESSION_SECRET="<random secret key here>"
+export GH_CALLBACK="http://wxoblog.herokuapp.com/oauth/callback"
+export EXPRESS_SESSION_SECRET="topsecret"
 export SHORTID_SEED=1234567890
-export GA_ID="<google analytics id here>"
-export GA_DOMAIN="<google analytics domain here>"
+export GA_ID="UA-37024796-1"
+export GA_DOMAIN="sup"

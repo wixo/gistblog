@@ -1,5 +1,5 @@
-module.exports.sitename = "gistblog";
-module.exports.title = "home";
+module.exports.sitename = "wxo.me";
+module.exports.title = "wxo";
 
 module.exports.admin_userid = process.env.ADMIN_USERID;
 

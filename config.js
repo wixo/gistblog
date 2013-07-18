@@ -1,5 +1,5 @@
-module.exports.sitename = "wxo.me";
-module.exports.title = "wxo";
+module.exports.sitename = "apuntes";
+module.exports.title = "apuntes";
 
 module.exports.admin_userid = process.env.ADMIN_USERID;
 

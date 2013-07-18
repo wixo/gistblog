@@ -5,13 +5,13 @@
 
 export ADMIN_USERID="324686" # your gh userid
 export SITEURL="http://localhost:5000/"
-export SITEURL="http://wxoblog.herokuapp.com/"
+# export SITEURL="http://wxoblog.herokuapp.com/"
 
 export MONGOLAB_URI="mongodb://localhost/gistblogs"
 export GH_CONSUMER_KEY="5703c048ee2275de0a57"
 export GH_CONSUMER_SECRET="461fafcf906f7bdb48e13ce1714142126ac80156"
 export GH_CALLBACK="http://localhost:5000/oauth/callback"
-export GH_CALLBACK="http://wxoblog.herokuapp.com/oauth/callback"
+# export GH_CALLBACK="http://wxoblog.herokuapp.com/oauth/callback"
 export EXPRESS_SESSION_SECRET="topsecret"
 export SHORTID_SEED=1234567890
 export GA_ID="UA-37024796-1"
